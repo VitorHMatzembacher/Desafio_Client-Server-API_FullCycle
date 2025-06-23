@@ -2,8 +2,6 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte do desafio da pós-graduação FullCycle. O objetivo é aplicar conceitos de:
-
 O projeto consiste em dois sistemas:
 
 - `server.go`  Servidor HTTP responsável por consumir a cotação do dólar de uma API externa, salvar no banco e retornar para o cliente.
